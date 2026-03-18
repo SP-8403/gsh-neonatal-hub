@@ -1,10 +1,6 @@
 <h2>TcB Device Allocation</h2>
 
-
-<!-- Canva Embed -->
-<iframe 
-  src="https://www.canva.com/design/DAHESwVtR_o/uVXbx1z_Qy7BsGrZk6hyXQ/view"
-  style="width:100%; height:600px; border:none;">
-</iframe>
-
-<br><br>
+<a href="https://www.canva.com/design/DAHESwVtR_o/uVXbx1z_Qy7BsGrZk6hyXQ/view" target="_blank" 
+style="display:block; padding:20px; background:#D6EAF8; border-radius:10px; text-align:center; text-decoration:none; color:black; font-weight:bold;">
+📊 Open TcB Device Guide
+</a>
